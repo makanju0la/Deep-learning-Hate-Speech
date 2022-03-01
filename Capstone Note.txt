@@ -1,0 +1,7 @@
+**Encountered problems**
+
+Data are unbalanced - in real life there are more of non-hate data compared to hate data.
+specific hate are scarce - combined every derogratory speech as hate.
+
+I am using the term hate with an high level perspective. 
+
